@@ -41,7 +41,7 @@
 
 // output return bigest number form arr 741612
 
-const arrayNum = [12, 17, 16, 14, 1077, 1009];
+const arrayNum = [ 12, 17, 16, 14, 1077, 1009];
 
 const bigestNum = (arr) => {
 
